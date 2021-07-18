@@ -1,6 +1,6 @@
-![Product image](whale_spout_pro.jpg)
-
 Translation of button panel instructions for Whale Spout Smart Toilet Seat Pro (LY-ST1808-008B), listed in Mi Home as `xjx.toilet.pro`. 
+
+![Product image](whale_spout_pro.jpg)
 
 Available at [Banggood](https://www.banggood.com/custlink/vvDY6mHuIE).
 
