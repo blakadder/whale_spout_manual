@@ -57,28 +57,31 @@ After seating, the seat ring temperature will increase by one level when pressin
 After the user sits for more than 10 minutes, the seat temperature will automatically drop to a low level to avoid low-temperature burns. 
 
 Seat temperature levels:
-	1. room temperature
-	2. about 32°C
-	3. about 35°C
-	4. about 38°C
+
+1. room temperature
+2. about 32°C
+3. about 35°C
+4. about 38°C
 
 ### 2. Washing water temperature 
 In wash mode, there are three levels of water temperature. 
 During washing mode, `(+)` and `(-)` buttons will increase or decrease water temperature by one level.
 
 Water temperature levels:
-	1. about 35°C
-	2. about 37°C
-	3. about 39°C
+
+1. about 35°C
+2. about 37°C
+3. about 39°C
 
 ### 3. Drying air temperature
 In drying mode, there are three levels of air temperature. 
 During drying mode, `(+)` and `(-)` buttons will increase or decrease air temperature by one level.
 
 Air temperature levels:
-	1. about 36°C
-	2. about 43°C
-	3. about 50°C
+
+1. about 36°C
+2. about 43°C
+3. about 50°C
 
 4. Nozzle adjustment 
 Push the `(nozzle adjust)` button left or right to adjust nozzle position. Long press in any direction to start or pause water spraying. 
