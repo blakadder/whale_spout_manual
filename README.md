@@ -1,4 +1,4 @@
-Translation of button panel instructions for Whale Spout Smart Toilet Seat Pro (LY-ST1808-008B), listed in Mi Home as `xjx.toilet.pro`. 
+Translation of button panel instructions for Xiaomi Whale Spout Smart Toilet Seat Pro (LY-ST1808-008B), listed in Mi Home as `xjx.toilet.pro`. 
 
 ![Product image](whale_spout_pro.jpg)
 
