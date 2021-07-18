@@ -83,13 +83,13 @@ Air temperature levels:
 2. about 43°C
 3. about 50°C
 
-4. Nozzle adjustment 
+### 4. Nozzle adjustment 
 Push the `(nozzle adjust)` button left or right to adjust nozzle position. Long press in any direction to start or pause water spraying. 
 
-5. Nozzle spray strenght
+### 5. Nozzle spray strenght
 In washing mode, press `(rear)` or `(bidet)` button to cycle through three nozzle spray strength levels.
 
-6. WIFI 
+### 6. WIFI 
 Long press `(stop)` button for 5 seconds to reset WIFI settings.
 
 All mentioned functions and more can be adjusted and controlled through the Mi Home app.
